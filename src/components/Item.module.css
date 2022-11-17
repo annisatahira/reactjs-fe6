@@ -1,0 +1,7 @@
+.item {
+  display: flex;
+  color: blue;
+  align-items: center;
+  justify-items: center;
+  gap: 50px;
+}
